@@ -3,9 +3,9 @@ package com.example.demo;
 public class Car {
 
 	public void show() {
-		//this is show method;
-        //now i have to something new to this method; 
-		//task done
+	 int j = 12;
+	int k =10;
+	int c = j+K;
 	}
 
 }
